@@ -45,7 +45,7 @@
 ### 🎧 Vibes While Coding
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31u4dy3tl42tn5ptx5f4p4d6vzb4&cover_image=true&theme=novatorem" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jcp5mbrpsb3idlge4uqla2bnj4&cover_image=true&theme=novatorem" alt="Spotify Now Playing"/>
 </p>
 
 ---
