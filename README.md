@@ -30,8 +30,6 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|:--|:--|:--|
 | 🧠 | Coming Soon... |
 
 ---
