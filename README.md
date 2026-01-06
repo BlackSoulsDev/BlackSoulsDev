@@ -30,7 +30,7 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description |
 |:--|:--|:--|
 | 🧠 | Coming Soon... |
 
