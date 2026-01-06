@@ -32,9 +32,7 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🧠 [ReScope](https://github.com/BlackSoulsDev/ReScope) | Reverse engineering toolkit for binary analysis and patching. | C++, Python |
-| ⚙️ [WebForge](https://github.com/BlackSoulsDev/WebForge) | Lightweight backend starter for Python web apps. | Flask, FastAPI |
-| 🕷️ [AutoRecon](https://github.com/BlackSoulsDev/AutoRecon) | Recon & scanning automation for pentesters. | Python, Bash |
+| 🧠 | Coming Soon... |
 
 ---
 
