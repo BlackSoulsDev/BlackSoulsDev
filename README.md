@@ -50,11 +50,6 @@
 
 ---
 
-### ⚡ Fun Fact
-> "I don’t just write code — I reverse it, dissect it, and rebuild it stronger."
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlackSoulsDev&label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
 </p>
