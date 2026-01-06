@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/BlackSoulsDev"><img src="https://img.shields.io/github/followers/BlackSoulsDev?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://t.me/AkitaSX"><img src="https://img.shields.io/badge/Telegram-@AkitaSX-blue?logo=telegram" alt="Telegram"></a>
-  <a href="mailto:blacksoulsdevelopment@gmail.com"><img src="https://img.shields.io/badge/Email-blacksouls@gmail.com-red?logo=gmail"></a>
+  <a href="mailto:blacksoulsdevelopment@gmail.com"><img src="https://img.shields.io/badge/Email-blacksoulsdevelopment@gmail.com-red?logo=gmail"></a>
 </p>
 
 ---
